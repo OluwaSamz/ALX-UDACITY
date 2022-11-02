@@ -5,7 +5,7 @@
 
 ## Dataset
 
-> The dataset was provided in the classroom. The dataset initially contained 183412 rows and 16 columns, I indentified and dropped the missing values, reducing the number of rows to 174952. I changed the datatype of some columns to their datatypes.
+> The dataset was provided in the classroom. Also can be downloaded <a href="https://www.google.com/url?q=https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv&sa=D&source=editors&ust=1667420993229327&usg=AOvVaw1HDdoELjj2-uESTKIXRPJP">here</a> The dataset initially contained 183412 rows and 16 columns, I indentified and dropped the missing values, reducing the number of rows to 174952. I changed the datatype of some columns to their datatypes.
 
 
 ## Summary of Findings
